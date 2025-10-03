@@ -39,3 +39,5 @@ The Real-Time Chat Application is a modern, interactive web application built us
 ** Tailwind : For styling and responsive layout.
 
 ## OUTPUT
+
+<img width="1857" height="857" alt="Image" src="https://github.com/user-attachments/assets/08003b0c-9c6d-4f59-9817-392f79327d41" />
